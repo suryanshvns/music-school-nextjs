@@ -13,7 +13,7 @@ function Page() {
             id="email"
             name="email"
             placeholder="Enter your email"
-            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-indigo-500 text-gray-700 bg-gray-700" // Added bg-gray-700 class
+            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-indigo-500 text-white bg-gray-700" // Added bg-gray-700 class
           />
         </div>
         <div className="mb-4">
@@ -22,7 +22,7 @@ function Page() {
             id="suggestions"
             name="suggestions"
             placeholder="Enter your suggestions"
-            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-indigo-500 text-gray-700 bg-gray-700" // Added bg-gray-700 class
+            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-indigo-500 text-white bg-gray-700" // Added bg-gray-700 class
           ></textarea>
         </div>
         <button
